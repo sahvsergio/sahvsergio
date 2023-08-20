@@ -54,7 +54,9 @@ stats
 
 BLOG posts
 <!-- BLOG-POST-LIST:START -->
-
-
+- [Bullying: From Victim to Victor](https://sahvsergio.blogspot.com/2023/03/bullying-from-victim-to-victor.html)
+- [How to  overcome burnout and bored out syndromes at work : My story and recommendations](https://sahvsergio.blogspot.com/2019/12/how-to-overcome-burnout-and-bored-out.html)
+- [La historia se repite: La legalización como forma de control de una sustancia ilegal  y su efecto en las economías nacionales](https://sahvsergio.blogspot.com/2015/06/la-historia-se-repite-la-legalizacion.html)
+- [La caja idiota se vuelve más idiota con los realiti](https://sahvsergio.blogspot.com/2012/10/la-caja-idiota-se-vuelve-mas-idiota-con.html)
 <!-- BLOG-POST-LIST:END -->
 
