@@ -20,6 +20,7 @@
   <img src="https://media.giphy.com/media/v7WM6sLcnGIc8/giphy.gif" width="50px"/>
 </h1>
 
+
 <div align="center">
   <img src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_960_720.png" width="600" height="300"/>
 </div>
@@ -28,5 +29,7 @@
 ---
 
 ### :man_technologist: About Me :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahvsergio&theme=dark&background=000000)](https://git.io/streak-stats)&ia=web
 
 
