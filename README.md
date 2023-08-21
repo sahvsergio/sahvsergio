@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media-exp2.licdn.com/dms/image/C5603AQGxU-ZVAijEaQ/profile-displayphoto-shrink_800_800/0/1654739121186?e=1660176000&v=beta&t=v5mi1TY2eLAw-1uVH81iRI3oAeOWWIYR7-On9cjSdDw" width="100">
+  <img src="h[ttps://media-exp2.licdn.com/dms/image/C5603AQGxU-ZVAijEaQ/profile-displayphoto-shrink_800_800/0/1654739121186?e=1660176000&v=beta&t=v5mi1TY2eLAw-1uVH81iRI3oAeOWWIYR7-On9cjSdDw](https://sahvsergio.github.io/assets/images/sahvsergio.svg)" width="100">
 
 </div>
 <div id="badges" align="center">
