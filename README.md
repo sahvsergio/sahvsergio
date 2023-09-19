@@ -14,8 +14,9 @@
   <a href="https://twitter.com/sahvsergio">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+   <a href="https://twitter.com/sahvsergio">
+    <img src="https://img.shields.io/badge/codepenblack?style=for-the-badge&logo=codepen&logoColor=black" alt="codepen"/>
+  </a>
           
 </div>
 
