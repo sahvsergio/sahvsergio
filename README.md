@@ -35,14 +35,15 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="40" height="40"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="40" height="40"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg)" alt="jupyter-notebook" width="40" height="40">     
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" alt='MS-DOS width="40" height="40">
-    <img src= "https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="40", height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" alt="MS-DOS" width="40" height="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40">  
+    <img src="(https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg alt="Ubuntu" width="40" height="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visual-studio-code width="40" height="40">  
+    
+
   </div>
  
    
