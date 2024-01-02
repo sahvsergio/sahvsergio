@@ -18,7 +18,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=sahvsergio&style=flat-square&color=blue" alt="profile views"/>
 </div>
-### :hammer_and_wrench: Languages and Tools :
 
 
 
@@ -27,6 +26,12 @@
   <img src="https://media.giphy.com/media/3Fox4sRv6aRS9bCggt/giphy-downsized-large.gif" width="30px"/>
 </h1>
 
+### :hammer_and_wrench: Languages and Tools :
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="500" height="600"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="500" height="600"> 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" alt="Filezilla width="500" height="600"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="500" height="600"> 
+    
 
 
 
