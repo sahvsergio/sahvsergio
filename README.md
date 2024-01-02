@@ -34,9 +34,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" alt="Filezilla width="40" height="40"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="Firefox" width="40" height="40"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="40" height="40"> 
-    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Html5" width="40" height="40"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg)" alt="jupyter-notebook" width="40" height="40">     
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" alt='MS-DOS width="40" height="40">
     <img src= "https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">
