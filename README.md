@@ -40,7 +40,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40">  
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40">  
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40">  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg alt="Ubuntu" width="40" height="40">  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40">  
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visual-studio-code width="40" height="40">  
     
 
