@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
 </div>
 
-:
+
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -45,6 +45,9 @@
     
 
   </div>
+
+  ### :fire: My Stats :
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahvsergio&theme=python-dark)](https://git.io/streak-stats)
  
    
 
