@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif">
+<img src="https://github.com/sahvsergio/sahvsergio/blob/main/DALL%C2%B7E%202025-01-18%2020.35.19%20-%20Create%20a%20minimalist%20logo%20inspired%20by%20a%20glass%20bowl%20with%20swirling%20colorful%20shapes%2C%20incorporating%20the%20initials%20SAHV%20for%20Sergio%20Andr%C3%A9s%20Herrera%20Vel%C3%A1squez.%20.webp">
 </div>
 
 
